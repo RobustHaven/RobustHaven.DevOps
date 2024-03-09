@@ -7,6 +7,10 @@ This is a key integration component to a complete continuous integration and con
 
 [March 16, 2013 - DevOps: Integration, Deployment - Continuous Delivery](https://goo.gl/WYVQNl)
 
+[Usage Example](https://gist.github.com/leblancmeneses/1d352bb79447cd7a486598c4dc796ef1)
+
+This is an archived repository and is unsupported.
+
 
 Concepts
 ===========
